@@ -91,6 +91,7 @@ body {
   font-family: "Roboto";
   overflow: hidden;
   overflow: hidden;
+  min-width: 1440px;
 }
 
 .container {
